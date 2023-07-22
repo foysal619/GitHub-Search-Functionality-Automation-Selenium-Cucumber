@@ -7,7 +7,7 @@ In this repository, I have automated the GitHub Search Functionality using Selen
 - As a guest (not logged in), when searching GitHub for the term "create-react-app" from the about page search input, you will see a count of matching results.
 - You will find and verify "facebook/create-react-app" project as the first result.
 
-## Technology used:
+## Technology used
 - Selenium Tools
 - Cucumber BDD Tools
 - Java Programming Language
@@ -15,7 +15,7 @@ In this repository, I have automated the GitHub Search Functionality using Selen
 - Gradle Build System
 - IntelliJ IDE
 
-## How to run this project:
+## How to run this project
 - Clone this project
 - Hit the following command: ```gradle clean test```
 
